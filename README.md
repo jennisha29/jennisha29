@@ -22,7 +22,7 @@ Whenever I encounter a business challenge, I naturally start thinking about how 
 
 That mindset led me into data engineering and analytics. I enjoy breaking complex problems into manageable components, designing robust data architectures, and turning information into actionable insights.
 
-Over the years, I've worked across the data lifecycle—from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
+Over the years, I've worked across the data lifecycle from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
 
 My goal is simple: build reliable data systems that enable better decisions.
 
@@ -88,7 +88,7 @@ Built a streaming analytics platform for Twitter engagement monitoring.
 
 ## ⚙️ Tech Stack
 
-**💻 Programming Languages:** Python, SQL, Java, Bash, JavaScript
+**💻 Programming Languages:** Python, SQL, Java, Bash, C, C++, JavaScript
 
 **⚡ Data Engineering:** Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling
 
@@ -113,10 +113,8 @@ AutoMend: Autonomous MLOps Incident Remediation Platform
 
 ## 🔭 Currently Exploring
 
-- Modern Data Engineering Architectures
 - AI-Powered Analytics Workflows
 - MLOps and Production ML Systems
-- Data Quality and Observability
 - Agentic AI and Retrieval-Augmented Systems
 
 ---
