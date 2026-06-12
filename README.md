@@ -28,7 +28,7 @@ My goal is simple: build reliable data systems that enable better decisions.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🤖 AutoMend – Autonomous MLOps Remediation Platform
 
