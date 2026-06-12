@@ -22,7 +22,7 @@ Whenever I encounter a business challenge, I naturally start thinking about how 
 
 That mindset led me into data engineering and analytics. I enjoy breaking complex problems into manageable components, designing robust data architectures, and turning information into actionable insights.
 
-Over the years, I've worked across the data lifecycle—from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
+Over the years, I've worked across the data lifecycle from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
 
 My goal is simple: build reliable data systems that enable better decisions.
 
@@ -34,7 +34,7 @@ My goal is simple: build reliable data systems that enable better decisions.
 
 Built a self-healing MLOps system that detects, diagnoses, and resolves machine learning incidents automatically.
 
-#### Highlights
+**Highlights**
 
 - Secured **3rd Place at Google Boston**
 - Reduced incident response time by 40%
@@ -48,7 +48,7 @@ Built a self-healing MLOps system that detects, diagnoses, and resolves machine 
 
 Designed an end-to-end AWS data platform for logistics and profitability analysis.
 
-#### Highlights
+**Highlights**
 
 - Built serverless ETL pipelines using AWS services
 - Developed a snowflake-schema warehouse for business analytics
@@ -62,7 +62,7 @@ Designed an end-to-end AWS data platform for logistics and profitability analysi
 
 Developed a healthcare analytics pipeline leveraging Medicare claims data.
 
-#### Highlights
+**Highlights**
 
 - Implemented medallion architecture in Snowflake
 - Identified opioid overprescription and duplicate-claim patterns
@@ -76,7 +76,7 @@ Developed a healthcare analytics pipeline leveraging Medicare claims data.
 
 Built a streaming analytics platform for Twitter engagement monitoring.
 
-#### Highlights
+**Highlights**
 
 - Automated real-time ingestion into Snowflake
 - Implemented sentiment and trend monitoring workflows
@@ -88,20 +88,15 @@ Built a streaming analytics platform for Twitter engagement monitoring.
 
 ## ⚙️ Tech Stack
 
-**💻 Programming Languages**  
-Python, SQL, Java, Bash, JavaScript
+**💻 Programming Languages:** Python, SQL, Java, Bash, JavaScript
 
-**⚡ Data Engineering**  
-Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling
+**⚡ Data Engineering:** Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling
 
-**☁️ Cloud & DevOps**  
-AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+**☁️ Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
 
-**📊 BI & Analytics**  
-Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing
+**📊 BI & Analytics:** Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing
 
-**🤖 AI / ML**  
-Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation
+**🤖 AI / ML:** Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation
 
 ---
 
@@ -128,5 +123,3 @@ AutoMend: Autonomous MLOps Incident Remediation Platform
 
 - LinkedIn: [www.linkedin.com/in/jennisha-martin](http://www.linkedin.com/in/jennisha-martin)
 - Email: [jennishamartin163@gmail.com](mailto:jennishamartin163@gmail.com)
-
----
