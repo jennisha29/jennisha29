@@ -146,5 +146,3 @@ AutoMend: Autonomous MLOps Incident Remediation Platform
 
 * LinkedIn: [www.linkedin.com/in/jennisha-martin](http://www.linkedin.com/in/jennisha-martin)
 * Email: [jennishamartin163@gmail.com](mailto:jennishamartin163@gmail.com)
-
-*"Good data builds trust. Great data drives decisions."*
