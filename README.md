@@ -110,17 +110,6 @@ Scikit-learn • TensorFlow • PyTorch • MLOps • Feature Engineering • Mo
 
 ---
 
-## 🎓 Education
-
-**M.S. Computer Science**
-Northeastern University, Boston
-GPA: 3.83 / 4.0
-
-**B.E. Computer Science & Engineering**
-Anna University, Chennai, India
-
----
-
 ## 🏆 Achievements
 
 🥉 **3rd Place – Google Boston (2026)**
