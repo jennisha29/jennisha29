@@ -2,17 +2,7 @@
 
 ### Data Engineer • Data Analyst • Applied AI Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jennisha29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/jennisha-martin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:jennishamartin163@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
-
-I enjoy working with data and building systems that help people make better decisions. My interests include data engineering, analytics, cloud technologies, and AI. I like turning complex data problems into simple, practical solutions that create real business value.
+I enjoy building scalable data systems that transform raw data into reliable insights. My experience spans data engineering, cloud platforms, business intelligence, and machine learning, with a focus on creating solutions that drive measurable business outcomes.
 
 ---
 
@@ -28,13 +18,13 @@ I enjoy working with data and building systems that help people make better deci
 
 ## 🚀 What Drives Me
 
-I enjoy solving problems with data.
+Whenever I encounter a business challenge, I naturally start thinking about how data can help solve it.
 
-Whenever I come across a challenge, I naturally start thinking about how data can be used to better understand the problem and identify the right solution.
+That mindset led me into data engineering and analytics. I enjoy breaking complex problems into manageable components, designing robust data architectures, and turning information into actionable insights.
 
-This curiosity led me into data engineering and analytics. I enjoy building reliable data pipelines, designing scalable platforms, and creating insights that help organizations make informed decisions.
+Over the years, I've worked across the data lifecycle—from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
 
-My goal is simple: build data solutions that are useful, reliable, and impactful.
+My goal is simple: build reliable data systems that enable better decisions.
 
 ---
 
@@ -95,17 +85,12 @@ Built a streaming analytics platform for Twitter engagement monitoring.
 **Tech Stack:** Python, Azure Blob Storage, EventGrid, Snowpipe, Snowflake
 
 ---
-
 ## ⚙️ Tech Stack
 
-**💻 Programming Languages:** Python, SQL, Java, Bash, JavaScript
-
-**⚡ Data Engineering:** Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling
-
-**☁️ Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
-
-**📊 BI & Analytics:** Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing
-
+**💻 Programming Languages:** Python, SQL, Java, Bash, JavaScript  
+**⚡ Data Engineering:** Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling  
+**☁️ Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD 
+**📊 BI & Analytics:** Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing  
 **🤖 AI / ML:** Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation
 
 ---
@@ -113,7 +98,6 @@ Built a streaming analytics platform for Twitter engagement monitoring.
 ## 🏆 Achievements
 
 🥉 **3rd Place – Google Boston (2026)**
-
 AutoMend: Autonomous MLOps Incident Remediation Platform
 
 ⭐ **Infosys Rising Star Award (2023)**
@@ -132,18 +116,7 @@ AutoMend: Autonomous MLOps Incident Remediation Platform
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jennisha29&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha29&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-* LinkedIn: https://www.linkedin.com/in/jennisha-martin
-* Email: jennishamartin163@gmail.com
-
----
+* LinkedIn: [www.linkedin.com/in/jennisha-martin](http://www.linkedin.com/in/jennisha-martin)
+* Email: [jennishamartin163@gmail.com](mailto:jennishamartin163@gmail.com)
