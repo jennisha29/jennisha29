@@ -1,134 +1,121 @@
-<h1 align="center">Hi 👋, I'm Jennisha Martin</h1>
-<h3 align="center">Data Engineer • Data Analyst • Applied AI Enthusiast</h3>
+```md
+# Hello, I'm Jennisha Martin 👋
 
-<p align="center">
+### Data Engineer • Data Analyst • Applied AI Enthusiast
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jennisha29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/jennisha-martin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:jennishamartin163@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-💡 Building scalable data systems that transform raw data into reliable insights.
-
-🎓 **M.S. Computer Science** @ Northeastern University
-
-💼 Former **Data Engineer at Infosys**
-
-☁️ Passionate about **Data Engineering, Analytics, Cloud Technologies, and Applied AI**
-
-📍 Boston, Massachusetts
+I enjoy working with data and building systems that help people make better decisions. My interests include data engineering, analytics, cloud technologies, and AI. I like turning complex data problems into simple, practical solutions that create real business value.
 
 ---
 
 ## 🛠️ What I Build
 
-🔹 Scalable ETL/ELT pipelines for high-volume data processing
-
-🔹 Cloud-native data platforms using AWS, Snowflake, Spark & Airflow
-
-🔹 Data warehouses and dimensional models for analytics
-
-🔹 Business intelligence dashboards and KPI reporting solutions
-
-🔹 Machine Learning and MLOps applications
+* Scalable ETL/ELT pipelines for high-volume data ingestion and transformation
+* Cloud-based data platforms using AWS, Snowflake, Spark, and Airflow
+* Data warehouses and dimensional models that support analytics at scale
+* Interactive dashboards and KPI reporting solutions for business stakeholders
+* Machine learning and MLOps applications that automate decision-making workflows
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 What Drives Me
 
-### 💻 Programming Languages
+I enjoy solving problems with data.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,bash" />
-</p>
+Whenever I come across a challenge, I naturally start thinking about how data can be used to better understand the problem and identify the right solution.
 
-**SQL • Python • Java • Bash • JavaScript**
+This curiosity led me into data engineering and analytics. I enjoy building reliable data pipelines, designing scalable platforms, and creating insights that help organizations make informed decisions.
 
-### ⚙️ Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-</p>
-
-**Apache Airflow • Apache Spark • dbt • AWS Glue • Databricks • Snowflake • Amazon Redshift • Data Modeling**
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions" />
-</p>
-
-**AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • CI/CD**
-
-### 📊 BI & Analytics
-
-**Power BI • Tableau • Looker Studio • DAX • KPI Development • Predictive Modeling • A/B Testing**
-
-### 🤖 AI / ML
-
-**Scikit-learn • TensorFlow • PyTorch • MLOps • NLP • RAG • LLMs • Feature Engineering • Model Evaluation**
+My goal is simple: build data solutions that are useful, reliable, and impactful.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🤖 AutoMend – Autonomous MLOps Remediation Platform
 
-🏆 3rd Place at Google Boston
+Built a self-healing MLOps system that detects, diagnoses, and resolves machine learning incidents automatically.
 
-✅ Reduced incident response time by 40%
+**Highlights**
 
-✅ Built automated ML incident detection and remediation workflows
+* Secured **3rd Place at Google Boston**
+* Reduced incident response time by 40%
+* Integrated Airflow, Ray, DVC, Fairlearn, BERT, and Llama-3
 
-**Tech:** Python, Airflow, Ray, Polars, Docker, DVC, BERT, Llama-3
+**Tech Stack:** Python, Airflow, Ray, Polars, Docker, DVC, BERT, Llama-3
 
 ---
 
 ### 📦 SupplyFlow – Supply Chain Analytics Platform
 
-✅ Built serverless ETL pipelines using AWS
+Designed an end-to-end AWS data platform for logistics and profitability analysis.
 
-✅ Developed dimensional warehouse models
+**Highlights**
 
-✅ Delivered executive dashboards for profitability analysis
+* Built serverless ETL pipelines using AWS services
+* Developed a snowflake-schema warehouse for business analytics
+* Delivered executive dashboards for profitability and carrier performance
 
-**Tech:** AWS S3, Lambda, Glue, Redshift, PySpark, Power BI
+**Tech Stack:** AWS S3, Lambda, Glue, Redshift, PySpark, Power BI
 
 ---
 
 ### 🏥 HealthSync – Healthcare Data Platform
 
-✅ Implemented Snowflake Medallion Architecture
+Developed a healthcare analytics pipeline leveraging Medicare claims data.
 
-✅ Analyzed Medicare claims and prescription patterns
+**Highlights**
 
-✅ Built healthcare analytics dashboards
+* Implemented medallion architecture in Snowflake
+* Identified opioid overprescription and duplicate-claim patterns
+* Created operational dashboards for healthcare insights
 
-**Tech:** Python, SQL, dbt, Snowflake, AWS
+**Tech Stack:** Python, SQL, dbt, Snowflake, AWS S3, Looker Studio
 
 ---
 
 ### 📈 TweetPulse – Real-Time Social Media Analytics
 
-✅ Automated social media ingestion pipelines
+Built a streaming analytics platform for Twitter engagement monitoring.
 
-✅ Enabled near real-time analytics
+**Highlights**
 
-✅ Delivered trend and sentiment dashboards
+* Automated real-time ingestion into Snowflake
+* Implemented sentiment and trend monitoring workflows
+* Developed near real-time business dashboards
 
-**Tech:** Python, Snowpipe, Snowflake, Azure EventGrid
+**Tech Stack:** Python, Azure Blob Storage, EventGrid, Snowpipe, Snowflake
+
+---
+
+## ⚙️ Tech Stack
+
+**💻 Programming Languages:** Python, SQL, Java, Bash, JavaScript
+
+**⚡ Data Engineering:** Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling
+
+**☁️ Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+
+**📊 BI & Analytics:** Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing
+
+**🤖 AI / ML:** Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **3rd Place – Google Boston Hackathon (2026)**
+🥉 **3rd Place – Google Boston (2026)**
+
+AutoMend: Autonomous MLOps Incident Remediation Platform
 
 ⭐ **Infosys Rising Star Award (2023)**
 
@@ -138,11 +125,11 @@
 
 ## 🔭 Currently Exploring
 
-- Modern Data Engineering Architectures
-- Data Quality & Observability
-- AI-Powered Analytics
-- MLOps & Production ML Systems
-- Agentic AI & RAG Applications
+* Modern Data Engineering Architectures
+* AI-Powered Analytics Workflows
+* MLOps and Production ML Systems
+* Data Quality and Observability
+* Agentic AI and Retrieval-Augmented Systems
 
 ---
 
@@ -155,14 +142,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 **Email:** jennishamartin163@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/jennisha-martin
-
-🌐 **GitHub:** https://github.com/jennisha29
+* LinkedIn: https://www.linkedin.com/in/jennisha-martin
+* GitHub: https://github.com/jennisha29
+* Email: jennishamartin163@gmail.com
 
 ---
 
-<h3 align="center">✨ Building reliable data systems that transform information into impact ✨</h3>
+> *"Building reliable data systems that transform information into impact."*
+```
