@@ -1,4 +1,3 @@
-```md
 # Hello, I'm Jennisha Martin 👋
 
 ### Data Engineer • Data Analyst • Applied AI Enthusiast
@@ -145,10 +144,6 @@ AutoMend: Autonomous MLOps Incident Remediation Platform
 ## 📫 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/jennisha-martin
-* GitHub: https://github.com/jennisha29
 * Email: jennishamartin163@gmail.com
 
 ---
-
-> *"Building reliable data systems that transform information into impact."*
-```
