@@ -18,13 +18,11 @@ I am passionate about designing efficient data pipelines, developing BI solution
 
 ## 🚀 What Drives Me
 
-Whenever I encounter a business challenge, I naturally start thinking about how data can help solve it.
+I enjoy working across the data and AI stack, building solutions that turn ideas into practical outcomes. From designing reliable ETL pipelines and cloud data platforms to developing analytics solutions that support business decisions, I focus on creating systems that are both scalable and useful.
 
-That mindset led me into data engineering and analytics. I enjoy breaking complex problems into manageable components, designing robust data architectures, and turning information into actionable insights.
+Over time, my work has expanded into machine learning, MLOps, RAG systems, and agentic AI applications. What I enjoy most is connecting the pieces, transforming raw data into insights, automating complex workflows, and building intelligent systems that solve real problems.
 
-Over the years, I've worked across the data lifecycle from building large-scale ETL pipelines and cloud data warehouses to developing analytics solutions, machine learning models, and production-ready data workflows.
-
-My goal is simple: build reliable data systems that enable better decisions.
+My goal is simple: to build dependable data and AI solutions that help organizations make better decisions and create meaningful impact.
 
 ---
 
