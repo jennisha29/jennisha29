@@ -1,237 +1,172 @@
-<!--
-============================================================
-  ✨ Jennisha Martin – GitHub Profile README
-  Replace YOUR_USERNAME (3 places) with your actual GitHub
-  handle once you push this to <username>/<username> repo.
-============================================================
--->
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Jennisha+Martin+%F0%9F%91%8B;Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Applied+AI+Enthusiast+%F0%9F%A4%96;Turning+Raw+Data+into+Real+Decisions" alt="Typing animation"/>
-</a>
+<!-- Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:9333EA&text=Jennisha%20Martin&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Jennisha Martin banner" />
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+data+pipelines;Designing+cloud+analytics+platforms;Turning+raw+data+into+business+impact;Exploring+MLOps%2C+RAG%2C+and+agentic+AI" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8957e5&logo=github&labelColor=0d1117" alt="Followers"/>
-<a href="https://www.linkedin.com/in/jennisha-martin">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-<a href="mailto:jennishamartin163@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-</a>
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennisha%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
+[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=jennisha-martin&style=for-the-badge&color=9333EA)](https://github.com/jennisha-martin)
+
+<br />
+<br />
+
+### ✦ Interactive Profile Hub ✦
+
+<a href="#-featured-projects">Projects</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#-github-pulse">GitHub Pulse</a> •
+<a href="#-currently-exploring">Currently Exploring</a> •
+<a href="#-lets-connect">Let's Connect</a>
 
 </div>
 
-<br/>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=4&section=header"/>
-  <img alt="divider" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=4&section=header"/>
-</picture>
+## 👋 Hello, I'm Jennisha
 
-## 🧠 About Me
+I'm a **Data Engineer**, **Data Analyst**, and **Applied AI Enthusiast** who loves building systems that make data useful, trustworthy, and actionable.
+
+I design efficient **ETL/ELT pipelines**, develop **BI solutions**, and use modern cloud technologies to transform complex datasets into insights that help teams make better decisions.
 
 ```yaml
-name:        Jennisha Martin
-role:        Data Engineer × Analyst × Applied AI
-focus:       ETL pipelines · cloud data platforms · MLOps · agentic AI
-philosophy:  build dependable systems that turn raw data into real decisions
-based_in:    "wherever a Snowflake warehouse needs orchestrating"
-status:      open to building things that matter
+focus:
+  - Scalable data pipelines
+  - Cloud data platforms
+  - Analytics engineering
+  - Machine learning workflows
+  - MLOps, RAG, and agentic AI systems
+mission: "Build dependable data and AI solutions that create meaningful impact."
 ```
-
-I design **efficient data pipelines**, develop **BI solutions**, and leverage **modern cloud technologies** to turn complex datasets into actionable insights. My work has expanded into **machine learning, MLOps, RAG systems, and agentic AI** — connecting the dots between data, automation, and intelligent decision-making.
 
 ---
 
 ## 🛠️ What I Build
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<details open>
+  <summary><b>⚙️ Data Pipelines</b></summary>
+  <br />
+  Scalable ETL/ELT workflows for high-volume ingestion, transformation, orchestration, monitoring, and quality checks.
+</details>
 
-  **⚙️ Data Engineering**
-  - Scalable ETL/ELT pipelines for high-volume ingestion
-  - Cloud-native data platforms on **AWS · Snowflake · Spark · Airflow**
-  - Dimensional warehouses that support analytics at scale
+<details open>
+  <summary><b>☁️ Cloud Data Platforms</b></summary>
+  <br />
+  Modern platforms using AWS, Snowflake, Spark, Airflow, Redshift, Databricks, and serverless services.
+</details>
 
-  </td>
-  <td valign="top" width="50%">
+<details>
+  <summary><b>📊 BI & Analytics Products</b></summary>
+  <br />
+  Dashboards, KPI reporting, dimensional models, executive analytics, predictive modeling, and business-ready data layers.
+</details>
 
-  **📊 Analytics & AI**
-  - Interactive dashboards & KPI reporting
-  - ML and MLOps workflows that automate decisions
-  - RAG systems and agentic AI applications
-
-  </td>
-  </tr>
-</table>
+<details>
+  <summary><b>🤖 Applied AI Systems</b></summary>
+  <br />
+  Machine learning, MLOps, NLP, RAG, LLM workflows, model evaluation, and AI-powered automation for real-world decision systems.
+</details>
 
 ---
 
 ## 🚀 What Drives Me
 
-> I enjoy working across the data and AI stack — building solutions that turn ideas into practical outcomes. What I enjoy most is *connecting the pieces*: transforming raw data into insights, automating complex workflows, and building intelligent systems that solve real problems.
->
-> **The goal is simple:** dependable data and AI solutions that help organizations make better decisions and create meaningful impact.
+I enjoy working across the data and AI stack, building solutions that turn ideas into practical outcomes. From reliable pipelines and cloud platforms to analytics products that support business decisions, I focus on systems that are both **scalable** and **useful**.
+
+Over time, my work has expanded into **machine learning**, **MLOps**, **RAG systems**, and **agentic AI applications**. What I enjoy most is connecting the pieces: transforming raw data into insights, automating complex workflows, and building intelligent systems that solve real problems.
 
 ---
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-  ### 🤖 AutoMend
-  *Autonomous MLOps Remediation Platform*
+| Project | Snapshot | Impact | Tech |
+|---|---|---|---|
+| 🤖 **AutoMend**<br /><sub>Autonomous MLOps Remediation Platform</sub> | Self-healing MLOps system that detects, diagnoses, and resolves ML incidents automatically | 🥉 3rd Place at Google Boston<br />⚡ Reduced incident response time by 40%<br />🧠 Integrated Airflow, Ray, DVC, Fairlearn, BERT, and Llama-3 | `Python` `Airflow` `Ray` `Polars` `Docker` `DVC` `BERT` `Llama-3` |
+| 📦 **SupplyFlow**<br /><sub>Supply Chain Analytics Platform</sub> | End-to-end AWS platform for logistics and profitability analysis | ☁️ Built serverless ETL pipelines<br />🏗️ Designed snowflake-schema warehouse<br />📊 Delivered executive profitability dashboards | `AWS S3` `Lambda` `Glue` `Redshift` `PySpark` `Power BI` |
+| 🏥 **HealthSync**<br /><sub>Healthcare Data Platform</sub> | Healthcare analytics pipeline using Medicare claims data | 🥈 Implemented medallion architecture<br />🔎 Found opioid overprescription patterns<br />🧾 Detected duplicate-claim patterns | `Python` `SQL` `dbt` `Snowflake` `AWS S3` `Looker Studio` |
+| 📈 **TweetPulse**<br /><sub>Real-Time Social Media Analytics</sub> | Streaming analytics platform for Twitter engagement monitoring | ⚡ Automated real-time ingestion<br />💬 Added sentiment and trend monitoring<br />📊 Built near real-time dashboards | `Python` `Azure Blob` `EventGrid` `Snowpipe` `Snowflake` |
 
-  Self-healing MLOps system that **detects, diagnoses, and resolves** ML incidents automatically.
+</div>
 
-  - 🥉 **3rd Place** – Google Boston
-  - ⏱️ **40% faster** incident response
-  - 🔗 Airflow · Ray · DVC · Fairlearn · BERT · Llama-3
+<details>
+  <summary><b>🤖 Open AutoMend Details</b></summary>
+  <br />
+  Built a self-healing MLOps platform that detects, diagnoses, and resolves machine learning incidents automatically. The system integrates orchestration, distributed execution, model/version tracking, fairness checks, transformer-based diagnosis, and LLM-powered remediation.
+</details>
 
-  `Python` `Airflow` `Ray` `Polars` `Docker` `BERT` `Llama-3`
+<details>
+  <summary><b>📦 Open SupplyFlow Details</b></summary>
+  <br />
+  Designed an end-to-end AWS analytics platform for logistics and profitability analysis, including serverless ingestion, warehouse modeling, and executive dashboards for carrier and profitability performance.
+</details>
 
-  </td>
-  <td width="50%" valign="top">
+<details>
+  <summary><b>🏥 Open HealthSync Details</b></summary>
+  <br />
+  Developed a healthcare analytics pipeline using Medicare claims data, Snowflake medallion architecture, dbt transformations, and dashboards for opioid overprescription and duplicate-claim insights.
+</details>
 
-  ### 📦 SupplyFlow
-  *Supply Chain Analytics Platform*
-
-  End-to-end AWS data platform for **logistics & profitability** analysis.
-
-  - 🪣 Serverless ETL on AWS
-  - ❄️ Snowflake-schema warehouse
-  - 📈 Executive dashboards for carriers & profitability
-
-  `AWS S3` `Lambda` `Glue` `Redshift` `PySpark` `Power BI`
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-  ### 🏥 HealthSync
-  *Healthcare Data Platform*
-
-  Healthcare analytics pipeline built on **Medicare claims data**.
-
-  - 🥇🥈🥉 Medallion architecture in Snowflake
-  - 💊 Detected opioid over-prescription patterns
-  - 📊 Operational dashboards for healthcare insights
-
-  `Python` `SQL` `dbt` `Snowflake` `AWS S3` `Looker Studio`
-
-  </td>
-  <td width="50%" valign="top">
-
-  ### 📈 TweetPulse
-  *Real-Time Social Media Analytics*
-
-  Streaming analytics platform monitoring **Twitter engagement** live.
-
-  - ⚡ Real-time ingestion into Snowflake
-  - 💬 Sentiment & trend monitoring
-  - 📡 Near real-time business dashboards
-
-  `Python` `Azure Blob` `EventGrid` `Snowpipe` `Snowflake`
-
-  </td>
-  </tr>
-</table>
+<details>
+  <summary><b>📈 Open TweetPulse Details</b></summary>
+  <br />
+  Built a near real-time Twitter analytics platform with automated ingestion, Snowflake loading, sentiment monitoring, trend detection, and business dashboards.
+</details>
 
 ---
 
+<a id="tech-stack"></a>
+
 ## ⚙️ Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+<div align="center">
 
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>⚡ Data Engineering</b></summary>
-<br/>
-
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+### ⚡ Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>📊 BI & Analytics</b></summary>
-<br/>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 BI & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=powerbi&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML</b></summary>
-<br/>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 AI / ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8957e5&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=8957e5&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=8957e5&point=c9d1d9" alt="Activity Graph"/>
+![MLOps](https://img.shields.io/badge/MLOps-5B2C83?style=for-the-badge&logo=mlflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=opensearch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -239,35 +174,68 @@ I design **efficient data pipelines**, develop **BI solutions**, and leverage **
 
 ## 🏆 Achievements
 
-| 🏅 | Award | Year |
-|----|-------|------|
-| 🥉 | **3rd Place — Google Boston** · *AutoMend: Autonomous MLOps Incident Remediation Platform* | 2026 |
-| ⭐ | **Infosys Rising Star Award** | 2023 |
-| 🎖️ | **Infosys Insta Award** | 2022 |
+<div align="center">
+
+| 🏅 Recognition | Details |
+|---|---|
+| 🥉 **3rd Place – Google Boston (2026)** | **AutoMend:** Autonomous MLOps Incident Remediation Platform |
+| ⭐ **Infosys Rising Star Award (2023)** | Recognized for high-impact contributions and growth |
+| 🏅 **Infosys Insta Award (2022)** | Recognized for strong delivery and performance |
+
+</div>
 
 ---
 
 ## 🔭 Currently Exploring
 
+```mermaid
+mindmap
+  root((Current Focus))
+    AI-Powered Analytics
+      Automated insights
+      Decision workflows
+    Production MLOps
+      Monitoring
+      Remediation
+      Responsible AI
+    Agentic AI
+      RAG systems
+      Workflow automation
+      Tool-using agents
+```
+
+---
+
+## 📊 GitHub Pulse
+
 <div align="center">
 
-| 🧪 AI-Powered Analytics | ⚙️ Production MLOps | 🧠 Agentic & RAG Systems |
-|:---:|:---:|:---:|
-| Building intelligent analytics pipelines | Reliable ML in production | Retrieval-augmented & autonomous agents |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jennisha-martin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jennisha's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha-martin&theme=tokyonight&hide_border=true" alt="Jennisha's GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧭 How I Think About Data
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+```text
+Raw Data
+   ↓
+Reliable Pipelines
+   ↓
+Analytics-Ready Models
+   ↓
+Clear Business Insights
+   ↓
+Smarter Decisions
+   ↓
+Scalable Impact
+```
 
 ---
 
@@ -275,17 +243,13 @@ I design **efficient data pipelines**, develop **BI solutions**, and leverage **
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jennisha-martin">
-  <img src="https://img.shields.io/badge/LinkedIn-jennisha--martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="mailto:jennishamartin163@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jennishamartin163-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
+### ✨ Let's build something useful, scalable, and a little bit brilliant.
 
-<br/><br/>
+<br />
 
-<i>"Data is the new oil — but pipelines are the refinery."</i>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
+[![Gmail](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:2563EB,100:0F172A" alt="Footer wave" />
 
 </div>
