@@ -1,0 +1,45 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Simple animated girl explaining GitHub</title>
+  <desc id="desc">A simple animated girl pointing to a GitHub profile board with data engineering highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#172554"/>
+      <stop offset="1" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="455" y1="80" x2="1010" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="420" rx="30" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <circle cx="92" cy="72" r="2" fill="#E0F2FE">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="86" r="2.5" fill="#F5D0FE">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="365" r="2" fill="#BAE6FD">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <rect x="455" y="70" width="580" height="275" rx="24" fill="url(#panel)" stroke="#38BDF8" stroke-width="2"/>
+    <text x="745" y="116" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" text-anchor="middle">Hi, welcome to my GitHub!</text>
+    <text x="745" y="151" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">I build data pipelines, dashboards, and AI workflows.</text>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">
+      <rect x="505" y="188" width="220" height="44" rx="14" fill="#0F172A" stroke="#38BDF8"/>
+      <text x="535" y="216" fill="#E0F2FE">⚙️ Data Engineering</text>
+      <rect x="765" y="188" width="
