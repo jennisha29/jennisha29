@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:1D4ED8,100:9333EA&text=Welcome%20to%20Jennisha%20GitHub%20Repo&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha GitHub Repo banner" />
+<!-- Superhero Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:1D4ED8,100:9333EA&text=Welcome%20to%20Jennisha%20Martin's%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha Martin's GitHub banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=25&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=I+build+scalable+data+pipelines;I+turn+complex+data+into+actionable+insights;I+design+cloud+analytics+platforms;I+explore+MLOps%2C+RAG%2C+and+agentic+AI" alt="Animated typing intro" />
 
@@ -22,18 +22,17 @@
 <br />
 <br />
 
-### ⚡ Profile Navigation
+### ⚡ Superhero Profile Navigation
 
 <a href="#-about-me">About</a> •
 <a href="#-superpower-stack">Skills</a> •
-<a href="#-featured-projects">Projects</a> •
+<a href="#-featured-missions">Projects</a> •
 <a href="#-github-analytics">Analytics</a> •
 <a href="#-lets-connect">Connect</a>
 
 <br />
 <br />
 
-<!-- Upload this image to Assets/simple-github-guide-girl.svg for it to show -->
 <img src="./Assets/simple-github-guide-girl.svg" alt="Simple animated girl explaining Jennisha GitHub profile" />
 
 </div>
@@ -57,6 +56,12 @@ superpowers:
   - MLOps, RAG, LLMs, and agentic AI workflows
 mission: "Transform complex datasets into dependable insights and intelligent action."
 ```
+
+<div align="center">
+
+<img src="./Assets/superhero-pipeline-flow.svg" alt="Animated data superpower pipeline" />
+
+</div>
 
 ---
 
@@ -92,6 +97,11 @@ mission: "Transform complex datasets into dependable insights and intelligent ac
 
 <div align="center">
 
+<img src="./Assets/animated-icons.svg" alt="Animated skills icons" />
+
+<br />
+<br />
+
 ### Core Toolkit
 
 <img src="https://skillicons.dev/icons?i=python,java,bash,c,cpp,javascript,aws,docker,kubernetes,terraform,jenkins,githubactions" alt="Core technology icons" />
@@ -119,23 +129,20 @@ mission: "Transform complex datasets into dependable insights and intelligent ac
 
 </div>
 
-<details>
-  <summary><b>🧰 Open Full Skill Map</b></summary>
-  <br />
+### ✨ Full Skills Map
 
 | Category | Tools & Focus Areas |
 |---|---|
-| **Programming** | Python, SQL, Java, Bash, C, C++, JavaScript |
-| **Data Engineering** | Airflow, Spark, dbt, AWS Glue, Databricks, Snowflake, Redshift, Data Modeling |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD |
-| **BI & Analytics** | Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing |
-| **AI / ML** | Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation |
-
-</details>
+| 💻 **Programming Languages** | Python, SQL, Java, Bash, C, C++, JavaScript |
+| ⚡ **Data Engineering** | Apache Airflow, Apache Spark, dbt, AWS Glue, Databricks, Snowflake, Amazon Redshift, Data Modeling, ETL/ELT |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD |
+| 📊 **BI & Analytics** | Power BI, Tableau, Looker Studio, DAX, KPI Development, Predictive Modeling, A/B Testing |
+| 🤖 **AI / ML** | Scikit-learn, TensorFlow, PyTorch, MLOps, NLP, RAG, LLMs, Feature Engineering, Model Evaluation |
+| 🧰 **Tools & Practices** | Git, GitHub, Agile, Data Quality, Workflow Automation, Documentation, Monitoring |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Missions
 
 <details open>
   <summary><b>🤖 AutoMend — Autonomous MLOps Remediation Platform</b></summary>
@@ -170,93 +177,5 @@ Designed an end-to-end AWS data platform for logistics and profitability analysi
 Developed a healthcare analytics pipeline leveraging Medicare claims data.
 
 - 🥈 Implemented medallion architecture in Snowflake
-- 🔎 Identified opioid overprescription and duplicate-claim patterns
-- 📊 Created operational dashboards for healthcare insights
-- **Tech Stack:** `Python` `SQL` `dbt` `Snowflake` `AWS S3` `Looker Studio`
-
-</details>
-
-<details>
-  <summary><b>📈 TweetPulse — Real-Time Social Media Analytics</b></summary>
-  <br />
-
-Built a streaming analytics platform for Twitter engagement monitoring.
-
-- ⚡ Automated real-time ingestion into Snowflake
-- 💬 Implemented sentiment and trend monitoring workflows
-- 📊 Developed near real-time business dashboards
-- **Tech Stack:** `Python` `Azure Blob Storage` `EventGrid` `Snowpipe` `Snowflake`
-
-</details>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥉 **3rd Place – Google Boston (2026)** | AutoMend: Autonomous MLOps Incident Remediation Platform |
-| ⭐ **Infosys Rising Star Award (2023)** | Recognized for high-impact contributions and growth |
-| 🏅 **Infosys Insta Award (2022)** | Recognized for strong delivery and performance |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jennisha-martin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jennisha's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha-martin&theme=tokyonight&hide_border=true" alt="Jennisha's GitHub streak" />
-
-<br />
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
-
-</div>
-
----
-
-## 🧭 My Data Philosophy
-
-```text
-Raw Data
-  ↓
-Reliable Pipelines
-  ↓
-Analytics-Ready Models
-  ↓
-Clear Dashboards + ML Signals
-  ↓
-Smarter Decisions
-  ↓
-Scalable Impact
+- 🔎 Identified opioid
 ```
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### ✨ Building data systems with superhero-level reliability.
-
-<br />
-
-<a href="http://www.linkedin.com/in/jennisha-martin">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jennishamartin163@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:2563EB,100:020617" alt="Footer wave" />
-
-</div>
