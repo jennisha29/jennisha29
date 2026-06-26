@@ -1,56 +1,8 @@
-# Jennisha Martin - Interactive Data Engineering & AI Portfolio
-
-Welcome to the source repository for Jennisha Martin's **Interactive Data Engineering & Applied AI Portfolio Hub**. This full-stack/client-side portfolio is equipped with custom interstellar animations, dynamic state managers, live simulated ETL pipelines, and an interactive shell terminal.
-
----
-
-## 🚀 Key Interactive Features (Web Applet)
-
-1. **Interstellar Canvas Background**: A high-performance HTML5 Canvas simulation with customizable drift speeds, pausing controls, and high-velocity **Warp Speed** trailing effects.
-2. **Interactive ETL Data Pipeline**: A simulated real-time data ingestion and transformation flow showing Medallion Architecture progression (Bronze ➔ Silver ➔ Gold) with live syslog outputs.
-3. **Cross-Referenced Tech Stack Grid**: Interactive tech stack selectors that cross-reference which projects utilize specific programming languages, frameworks, or database products.
-4. **Interactive SVG Mindmap**: Fully clickable mental node layout tracking Jennisha's current focus across AI-Powered Analytics, Production MLOps, and Agentic AI workflows.
-5. **Interactive Portfolio Shell (`jennisha-shell-v1`)**: A mock terminal CLI chatbot supporting command runs like `help`, `skills`, `projects`, `availability`, and `about`.
-6. **Local Persistence Messaging Hub**: A custom inbox system that lets clients submit messages and view/manage saved records directly via browser local storage persistence.
-
----
-
-## 🛠️ Local Development & Running
-
-### Prerequisites
-- Node.js (v18+)
-- npm or yarn
-
-### Installation
-1. Install project dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Run the development server:
-   ```bash
-   npm run dev
-   ```
-   Open the browser at `http://localhost:3000` to interact with the full web experience.
-
-3. Compile production bundle:
-   ```bash
-   npm run build
-   ```
-
----
-
-## 🌟 GitHub Landing Page Profile README (Copy-Paste)
-
-Below is the highly-polished markdown designed specifically for your **GitHub Profile README (`README.md` inside your `jennisha-martin` repository)**:
-
-```markdown
 <div align="center">
 
-<!-- Hero Waving Banner -->
+<!-- Hero -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:9333EA&text=Jennisha%20Martin&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Jennisha Martin banner" />
 
-<!-- Dynamic Typist Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+data+pipelines;Designing+cloud+analytics+platforms;Turning+raw+data+into+business+impact;Exploring+MLOps%2C+RAG%2C+and+agentic+AI" alt="Typing SVG" />
 
 <br />
@@ -64,7 +16,11 @@ Below is the highly-polished markdown designed specifically for your **GitHub Pr
 
 ### ✦ Interactive Profile Hub ✦
 
-[Projects](#-featured-projects) • [Tech Stack](#-tech-stack) • [GitHub Pulse](#-github-pulse) • [Currently Exploring](#-currently-exploring) • [Let's Connect](#-lets-connect)
+<a href="#-featured-projects">Projects</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#-github-pulse">GitHub Pulse</a> •
+<a href="#-currently-exploring">Currently Exploring</a> •
+<a href="#-lets-connect">Let's Connect</a>
 
 </div>
 
@@ -129,15 +85,13 @@ Over time, my work has expanded into **machine learning**, **MLOps**, **RAG syst
 <div align="center">
 
 | Project | Snapshot | Impact | Tech |
-| :--- | :--- | :--- | :--- |
+|---|---|---|---|
 | 🤖 **AutoMend**<br /><sub>Autonomous MLOps Remediation Platform</sub> | Self-healing MLOps system that detects, diagnoses, and resolves ML incidents automatically | 🥉 3rd Place at Google Boston<br />⚡ Reduced incident response time by 40%<br />🧠 Integrated Airflow, Ray, DVC, Fairlearn, BERT, and Llama-3 | `Python` `Airflow` `Ray` `Polars` `Docker` `DVC` `BERT` `Llama-3` |
 | 📦 **SupplyFlow**<br /><sub>Supply Chain Analytics Platform</sub> | End-to-end AWS platform for logistics and profitability analysis | ☁️ Built serverless ETL pipelines<br />🏗️ Designed snowflake-schema warehouse<br />📊 Delivered executive profitability dashboards | `AWS S3` `Lambda` `Glue` `Redshift` `PySpark` `Power BI` |
 | 🏥 **HealthSync**<br /><sub>Healthcare Data Platform</sub> | Healthcare analytics pipeline using Medicare claims data | 🥈 Implemented medallion architecture<br />🔎 Found opioid overprescription patterns<br />🧾 Detected duplicate-claim patterns | `Python` `SQL` `dbt` `Snowflake` `AWS S3` `Looker Studio` |
 | 📈 **TweetPulse**<br /><sub>Real-Time Social Media Analytics</sub> | Streaming analytics platform for Twitter engagement monitoring | ⚡ Automated real-time ingestion<br />💬 Added sentiment and trend monitoring<br />📊 Built near real-time dashboards | `Python` `Azure Blob` `EventGrid` `Snowpipe` `Snowflake` |
 
 </div>
-
-<br />
 
 <details>
   <summary><b>🤖 Open AutoMend Details</b></summary>
@@ -164,6 +118,8 @@ Over time, my work has expanded into **machine learning**, **MLOps**, **RAG syst
 </details>
 
 ---
+
+<a id="tech-stack"></a>
 
 ## ⚙️ Tech Stack
 
@@ -221,10 +177,10 @@ Over time, my work has expanded into **machine learning**, **MLOps**, **RAG syst
 <div align="center">
 
 | 🏅 Recognition | Details |
-| :--- | :--- |
-| 3rd Place – Google Boston (2026) | **AutoMend:** Autonomous MLOps Incident Remediation Platform |
-| Infosys Rising Star Award (2023) | Recognized for high-impact contributions and growth |
-| Infosys Insta Award (2022) | Recognized for strong delivery and performance |
+|---|---|
+| 🥉 **3rd Place – Google Boston (2026)** | **AutoMend:** Autonomous MLOps Incident Remediation Platform |
+| ⭐ **Infosys Rising Star Award (2023)** | Recognized for high-impact contributions and growth |
+| 🏅 **Infosys Insta Award (2022)** | Recognized for strong delivery and performance |
 
 </div>
 
@@ -267,7 +223,7 @@ mindmap
 
 ## 🧭 How I Think About Data
 
-```
+```text
 Raw Data
    ↓
 Reliable Pipelines
@@ -297,4 +253,3 @@ Scalable Impact
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:2563EB,100:0F172A" alt="Footer wave" />
 
 </div>
-```
