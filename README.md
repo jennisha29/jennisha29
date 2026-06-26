@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Superhero Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:1D4ED8,100:9333EA&text=Jennisha%20Martin&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Jennisha Martin hero banner" />
+<!-- Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:1D4ED8,100:9333EA&text=Welcome%20to%20Jennisha%20GitHub%20Repo&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha GitHub Repo banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=25&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=I+build+scalable+data+pipelines;I+turn+complex+data+into+actionable+insights;I+design+cloud+analytics+platforms;I+explore+MLOps%2C+RAG%2C+and+agentic+AI" alt="Animated typing intro" />
 
@@ -22,18 +22,19 @@
 <br />
 <br />
 
-### ⚡ Superhero Profile Navigation
+### ⚡ Profile Navigation
 
 <a href="#-about-me">About</a> •
 <a href="#-superpower-stack">Skills</a> •
-<a href="#-featured-missions">Projects</a> •
+<a href="#-featured-projects">Projects</a> •
 <a href="#-github-analytics">Analytics</a> •
 <a href="#-lets-connect">Connect</a>
 
 <br />
 <br />
 
-<img src="./Assets/jennisha-animated-data-heroine.svg" alt="Animated Jennisha Martin data superhero character" />
+<!-- Upload this image to Assets/simple-github-guide-girl.svg for it to show -->
+<img src="./Assets/simple-github-guide-girl.svg" alt="Simple animated girl explaining Jennisha GitHub profile" />
 
 </div>
 
@@ -45,7 +46,7 @@ I'm **Jennisha Martin**, a **Data Engineer**, **Data Analyst**, and **Applied AI
 
 I design efficient **ETL/ELT pipelines**, cloud data platforms, dimensional models, analytics dashboards, and AI-powered workflows. My favorite work lives where **data engineering**, **BI**, **cloud**, and **applied AI** meet.
 
-This profile includes a custom animated **Data Heroine** character inspired by the superhero README concept: Git City skyline, glowing Python energy, moving pipeline streams, floating tech icons, and a cape built for dramatic data-engineering weather.
+This profile includes a simple animated guide character that introduces my GitHub, explains what I build, and points visitors toward my projects, skills, and data engineering journey.
 
 ```yaml
 superpowers:
@@ -56,12 +57,6 @@ superpowers:
   - MLOps, RAG, LLMs, and agentic AI workflows
 mission: "Transform complex datasets into dependable insights and intelligent action."
 ```
-
-<div align="center">
-
-<img src="./Assets/superhero-pipeline-flow.svg" alt="Animated data superpower pipeline" />
-
-</div>
 
 ---
 
@@ -89,28 +84,6 @@ mission: "Transform complex datasets into dependable insights and intelligent ac
   <summary><b>💬 Ask Me About</b></summary>
   <br />
   Data pipelines, Snowflake, AWS, Airflow, Spark, dbt, Power BI, Tableau, Looker Studio, MLOps, NLP, RAG, LLM workflows, dashboards, and analytics strategy.
-</details>
-
----
-
-## 🎬 Animated Character Workflow
-
-<details>
-  <summary><b>🦸‍♀️ Open 3D Poster + Veo Prompt Pack</b></summary>
-  <br />
-
-I added a ready-to-use prompt pack for generating a more personalized 3D superhero poster from a real face reference and animating it with Veo.
-
-- Prompt pack: `./Assets/girl-superhero-prompts.md`
-- Current GitHub-safe animated SVG: `./Assets/jennisha-animated-data-heroine.svg`
-- Optional future GIF path: `./Assets/output.gif`
-
-When you generate a real poster/GIF, replace the SVG embed with:
-
-```html
-<img src="./Assets/output.gif" alt="Animated Jennisha Martin data superhero poster" />
-```
-
 </details>
 
 ---
@@ -162,7 +135,7 @@ When you generate a real poster/GIF, replace the SVG embed with:
 
 ---
 
-## 🚀 Featured Missions
+## 🚀 Featured Projects
 
 <details open>
   <summary><b>🤖 AutoMend — Autonomous MLOps Remediation Platform</b></summary>
@@ -243,20 +216,6 @@ Built a streaming analytics platform for Twitter engagement monitoring.
 <br />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=jennisha-martin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jennisha-martin/jennisha-martin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jennisha-martin/jennisha-martin/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jennisha-martin/jennisha-martin/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
