@@ -1,45 +1,50 @@
 <!--
-================================================================
-  ✨ Jennisha Martin · GitHub Profile README — SINGLE FILE
-  Drop this README.md into a public repo named exactly your
-  GitHub username (e.g. jennisha-martin/jennisha-martin) and it
-  will display on your profile. Nothing else to upload.
-================================================================
+==================================================================
+  ✨ Jennisha Martin · GitHub Profile README
+  Files required (drop into your repo at these paths):
+    /README.md                  ← this file
+    /assets/snowfall-hero.svg   ← falling snowflake hero banner
+    /assets/snow-divider.svg    ← snowflake divider between sections
+==================================================================
 -->
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ HERO ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ SNOWFALL HERO ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:1e1b4b,60:2563EB,100:9333EA&text=Jennisha%20Martin&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" alt="Hero banner"/>
+  <img src="./assets/snowfall-hero.svg" alt="Jennisha Martin — Data Engineer · Analyst · Applied AI" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Building+scalable+data+pipelines+at+cloud+scale.;Designing+platforms+that+turn+rows+into+decisions.;Shipping+self-healing+MLOps+systems.;Connecting+data%2C+automation%2C+and+agentic+AI." alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+scalable+data+pipelines+at+cloud+scale.;Designing+platforms+that+turn+rows+into+decisions.;Shipping+self-healing+MLOps+systems.;Exploring+MLOps%2C+RAG%2C+and+agentic+AI." alt="Typing intro"/>
 </p>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/jennisha-martin"><img src="https://img.shields.io/badge/LinkedIn-Jennisha%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/></a>
-  <a href="mailto:jennishamartin163@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/></a>
-  <a href="https://github.com/jennisha-martin"><img src="https://komarev.com/ghpvc/?username=jennisha-martin&style=for-the-badge&color=9333EA&labelColor=020617&label=PROFILE+VIEWS"/></a>
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-3fb950?style=for-the-badge&labelColor=020617"/>
+  <a href="http://www.linkedin.com/in/jennisha-martin"><img src="https://img.shields.io/badge/LinkedIn-Jennisha%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+  <a href="mailto:jennishamartin163@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+  <a href="https://github.com/jennisha-martin"><img src="https://komarev.com/ghpvc/?username=jennisha-martin&style=for-the-badge&color=29B5E8&labelColor=0F172A&label=PROFILE+VIEWS"/></a>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-3fb950?style=for-the-badge&labelColor=0F172A"/>
 </p>
+
+<!-- ━━━━━━━━━━━━━━━━ INTERACTIVE NAV ━━━━━━━━━━━━━━━━ -->
 
 <p align="center"><strong>✦ Interactive Profile Hub ✦</strong></p>
 
 <p align="center">
-  <a href="#-hello-im-jennisha"><img src="https://img.shields.io/badge/-About-020617?style=for-the-badge&labelColor=38BDF8"/></a>
-  <a href="#%EF%B8%8F-what-i-build"><img src="https://img.shields.io/badge/-Build-020617?style=for-the-badge&labelColor=a855f7"/></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/-Projects-020617?style=for-the-badge&labelColor=22d3ee"/></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/-Stack-020617?style=for-the-badge&labelColor=3fb950"/></a>
-  <a href="#-github-pulse"><img src="https://img.shields.io/badge/-Stats-020617?style=for-the-badge&labelColor=f78166"/></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/-Connect-020617?style=for-the-badge&labelColor=9333EA"/></a>
+  <a href="#-hello-im-jennisha"><img src="https://img.shields.io/badge/❄️_About-0F172A?style=for-the-badge&labelColor=38BDF8"/></a>
+  <a href="#%EF%B8%8F-what-i-build"><img src="https://img.shields.io/badge/❄️_Build-0F172A?style=for-the-badge&labelColor=29B5E8"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/❄️_Projects-0F172A?style=for-the-badge&labelColor=2563EB"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/❄️_Stack-0F172A?style=for-the-badge&labelColor=9333EA"/></a>
+  <a href="#-github-pulse"><img src="https://img.shields.io/badge/❄️_Stats-0F172A?style=for-the-badge&labelColor=22d3ee"/></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/❄️_Connect-0F172A?style=for-the-badge&labelColor=3fb950"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ HELLO ━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ HELLO ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32"> Hello, I'm Jennisha
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Data+Engineer+%C2%B7+Analyst+%C2%B7+Applied+AI+Enthusiast" alt="Section header"/>
 
 I'm a **Data Engineer**, **Data Analyst**, and **Applied AI Enthusiast** who loves building systems that make data useful, trustworthy, and actionable.
 
@@ -56,11 +61,13 @@ mission: "Build dependable data and AI solutions that create meaningful impact."
 caffeine_level: dangerously high
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━ WHAT I BUILD ━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ WHAT I BUILD ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="32" height="32"> What I Build
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Pipelines%2C+platforms%2C+dashboards%2C+%26+AI+systems" alt="Section header"/>
 
 <details open>
   <summary><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="20" height="20" align="center"> &nbsp;Data Pipelines</b></summary>
@@ -86,57 +93,31 @@ caffeine_level: dangerously high
   Machine learning, MLOps, NLP, RAG, LLM workflows, model evaluation, and AI-powered automation for real-world decision systems.
 </details>
 
-<br/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="24" height="24"> How my data pipelines flow
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1e1b4b','primaryTextColor':'#f8fafc','primaryBorderColor':'#38BDF8','lineColor':'#a855f7','secondaryColor':'#020617','tertiaryColor':'#0F172A','background':'#020617'}}}%%
-flowchart LR
-    A[(Raw Sources)]:::src --> B[ETL / ELT]:::etl
-    B --> C{Quality Checks}:::qc
-    C -->|pass| D[(Warehouse)]:::wh
-    C -->|fail| E[Alerts]:::alert
-    D --> F[BI Dashboards]:::bi
-    D --> G[ML Models]:::ml
-    G --> H[Predictions]:::pred
-    F --> I([Decisions]):::out
-    H --> I
-
-    classDef src fill:#0F172A,stroke:#38BDF8,color:#38BDF8,stroke-width:2px
-    classDef etl fill:#0F172A,stroke:#a855f7,color:#a855f7,stroke-width:2px
-    classDef qc fill:#0F172A,stroke:#f78166,color:#f78166,stroke-width:2px
-    classDef wh fill:#0F172A,stroke:#22d3ee,color:#22d3ee,stroke-width:2px
-    classDef alert fill:#0F172A,stroke:#ef4444,color:#ef4444,stroke-width:2px
-    classDef bi fill:#0F172A,stroke:#3fb950,color:#3fb950,stroke-width:2px
-    classDef ml fill:#0F172A,stroke:#a855f7,color:#a855f7,stroke-width:2px
-    classDef pred fill:#0F172A,stroke:#22d3ee,color:#22d3ee,stroke-width:2px
-    classDef out fill:#1e1b4b,stroke:#FFFFFF,color:#FFFFFF,stroke-width:3px
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ DRIVE ━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ DRIVE ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32"> What Drives Me
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Connecting+data%2C+automation%2C+and+intelligence" alt="Section header"/>
 
 I enjoy working across the data and AI stack, building solutions that turn ideas into practical outcomes. From reliable pipelines and cloud platforms to analytics products that support business decisions, I focus on systems that are both **scalable** and **useful**.
 
 Over time, my work has expanded into **machine learning**, **MLOps**, **RAG systems**, and **agentic AI applications**. What I enjoy most is connecting the pieces: transforming raw data into insights, automating complex workflows, and building intelligent systems that solve real problems.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cc/512.gif" width="32" height="32"> Featured Projects
 
-> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.gif" width="18" height="18" align="center"> &nbsp;*Click any project to expand details.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Click+any+project+to+expand+details" alt="Section header"/>
 
 <details>
 <summary>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="22" height="22" align="center">&nbsp; <b>AutoMend</b> — <i>Autonomous MLOps Remediation Platform</i> &nbsp;<code>🥉 Google Boston</code></summary>
 <br/>
 
-A self-healing MLOps system that **detects, diagnoses, and resolves** machine-learning incidents automatically.
+Self-healing MLOps system that **detects, diagnoses, and resolves** machine-learning incidents automatically.
 
 | Highlight | Detail |
 |---|---|
@@ -216,13 +197,15 @@ Streaming analytics platform monitoring **Twitter engagement** in near real-time
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a id="tech-stack"></a>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32" height="32"> Tech Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+The+tools+I+reach+for+every+day" alt="Section header"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,bash,mysql,postgres,aws,azure,gcp&perline=11" alt="Languages &amp; Cloud"/>
@@ -297,54 +280,13 @@ Streaming analytics platform monitoring **Twitter engagement** in near real-time
 
 </details>
 
-<br/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="24" height="24"> Inside an AI model I'd build
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1e1b4b','primaryTextColor':'#f8fafc','primaryBorderColor':'#38BDF8','lineColor':'#a855f7','secondaryColor':'#020617','background':'#020617'}}}%%
-graph LR
-    subgraph Input["🟦 Input Layer"]
-        I1((x₁)):::input
-        I2((x₂)):::input
-        I3((x₃)):::input
-    end
-    subgraph Hidden1["🟪 Hidden Layer 1"]
-        H1((h₁)):::hidden
-        H2((h₂)):::hidden
-        H3((h₃)):::hidden
-        H4((h₄)):::hidden
-    end
-    subgraph Hidden2["🟪 Hidden Layer 2"]
-        K1((k₁)):::hidden
-        K2((k₂)):::hidden
-        K3((k₃)):::hidden
-    end
-    subgraph Output["🟦 Output"]
-        O1((y₁)):::output
-        O2((y₂)):::output
-    end
-    I1 --> H1 & H2 & H3 & H4
-    I2 --> H1 & H2 & H3 & H4
-    I3 --> H1 & H2 & H3 & H4
-    H1 --> K1 & K2 & K3
-    H2 --> K1 & K2 & K3
-    H3 --> K1 & K2 & K3
-    H4 --> K1 & K2 & K3
-    K1 --> O1 & O2
-    K2 --> O1 & O2
-    K3 --> O1 & O2
-
-    classDef input fill:#0F172A,stroke:#38BDF8,color:#38BDF8,stroke-width:2px
-    classDef hidden fill:#0F172A,stroke:#a855f7,color:#a855f7,stroke-width:2px
-    classDef output fill:#0F172A,stroke:#22d3ee,color:#22d3ee,stroke-width:2px
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="32" height="32"> Achievements
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Where+the+work+has+been+recognized" alt="Section header"/>
 
 <div align="center">
 
@@ -356,18 +298,16 @@ graph LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━ CURRENTLY EXPLORING ━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━ CURRENTLY EXPLORING ━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="32" height="32"> Currently Exploring
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=700&color=a855f7&center=true&vCenter=true&width=720&lines=AI-Powered+Analytics+Workflows;MLOps+%26+Production+ML+Systems;Agentic+AI+%26+Retrieval-Augmented+Generation;The+intersection+of+data%2C+ML%2C+and+autonomy" alt="Currently exploring"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+What's+capturing+my+attention+right+now" alt="Section header"/>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1e1b4b','primaryTextColor':'#f8fafc','lineColor':'#a855f7'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1e1b4b','primaryTextColor':'#f8fafc','lineColor':'#29B5E8'}}}%%
 mindmap
   root((Current Focus))
     AI-Powered Analytics
@@ -383,20 +323,22 @@ mindmap
       Tool-using agents
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━ GITHUB PULSE ━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ GITHUB PULSE ━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32" height="32"> GitHub Pulse
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Live+activity+%26+contribution+stats" alt="Section header"/>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jennisha-martin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha-martin&theme=tokyonight&hide_border=true&background=020617&stroke=38BDF8&ring=a855f7&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jennisha-martin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha-martin&theme=tokyonight&hide_border=true&background=0F172A&stroke=29B5E8&ring=38BDF8&fire=29B5E8&currStreakLabel=29B5E8" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jennisha-martin&theme=tokyo-night&hide_border=true&bg_color=020617&color=38BDF8&line=a855f7&point=c9d1d9&area=true&area_color=38BDF8" alt="Activity graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=29B5E8&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jennisha-martin&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=29B5E8&line=38BDF8&point=c9d1d9&area=true&area_color=29B5E8" alt="Activity graph"/>
 </p>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c5/512.gif" width="24" height="24"> Trophy Wall
@@ -405,11 +347,13 @@ mindmap
   <img src="https://github-profile-trophy.vercel.app/?username=jennisha-martin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━ DATA PHILOSOPHY ━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━ DATA PHILOSOPHY ━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.gif" width="32" height="32"> How I Think About Data
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+From+raw+rows+to+scalable+impact" alt="Section header"/>
 
 ```text
    Raw Data
@@ -425,9 +369,9 @@ mindmap
    Scalable Impact
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ad/512.gif" width="32" height="32"> Dev Quote of the Visit
 
@@ -435,11 +379,13 @@ mindmap
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote — changes every refresh"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,2,20" width="100%"/>
+<img src="./assets/snow-divider.svg" width="100%" alt=""/>
 
-<!-- ━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="32" height="32"> Let's Connect
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=500&color=29B5E8&width=600&lines=%E2%9D%84%EF%B8%8F+Always+open+to+meaningful+collaborations" alt="Section header"/>
 
 <div align="center">
 
@@ -448,17 +394,17 @@ mindmap
 <br/>
 
 <a href="http://www.linkedin.com/in/jennisha-martin">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
 </a>
 <a href="mailto:jennishamartin163@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
 </a>
 <a href="https://github.com/jennisha-martin">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
 </a>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333EA,50:2563EB,100:020617&animation=fadeIn" alt="Footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333EA,50:2563EB,100:0F172A&animation=fadeIn" alt="Footer wave"/>
 </p>
