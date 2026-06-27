@@ -1,31 +1,20 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:9333EA&text=Welcome%20to%20Jennisha%20Martin%27s%20Github&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha Martin's Github banner" />
-
-<!-- Avatar -->
-<img src="https://github.com/jennisha29.png" width="140" alt="Jennisha Martin avatar" style="border-radius:50%;" />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+data+pipelines;Designing+cloud+analytics+platforms;Turning+raw+data+into+business+impact;Exploring+MLOps%2C+RAG%2C+and+agentic+AI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:39FF14&text=Welcome%20to%20Jennisha%20Martin%27s%20Github&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha Martin's Github banner" />
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennisha%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
-[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jennisha29&style=for-the-badge&color=9333EA)](https://github.com/jennisha29)
+<!-- Top Badge Bar -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennisha29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=jennisha29&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/jennisha29)
 
 <br />
-<br />
 
-### ✦ Interactive Profile Hub ✦
-
-<a href="#-featured-projects">Projects</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#-github-pulse">GitHub Pulse</a> •
-<a href="#-currently-exploring">Currently Exploring</a> •
-<a href="#-lets-connect">Let's Connect</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Building+scalable+data+pipelines;Designing+cloud+analytics+platforms;Turning+raw+data+into+business+impact;Exploring+MLOps%2C+RAG%2C+and+agentic+AI" alt="Typing SVG" />
 
 </div>
 
@@ -222,6 +211,10 @@ mindmap
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha29&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
 
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jennisha29&theme=tokyo-night&hide_border=true&area=true&custom_title=Jennisha%27s%20Contribution%20Graph" alt="Jennisha's contribution graph" />
+
 </div>
 
 ---
@@ -255,6 +248,14 @@ Scalable Impact
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
 [![Gmail](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:2563EB,100:0F172A" alt="Footer wave" />
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thank you for visiting! 😊
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39FF14,50:111827,100:0F172A" alt="Footer wave" />
 
 </div>
