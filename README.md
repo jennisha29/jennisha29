@@ -1,26 +1,28 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:FF1493&text=Welcome%20to%20Jennisha%20Martin%27s%20Github&fontColor=FF1493&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=FF1493" alt="Welcome to Jennisha Martin's Github banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:FF1493&text=Welcome%20to%20Jennisha%20Martin%27s%20Github&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF" alt="Welcome to Jennisha Martin's Github banner" />
 
 <br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=850&lines=Building+scalable+data+pipelines;Designing+cloud+analytics+platforms;Turning+raw+data+into+business+impact;Exploring+MLOps%2C+RAG%2C+and+agentic+AI" alt="Typing SVG" />
 
 <br />
+
 <!-- Top Badge Bar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennisha29)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=jennisha29&style=for-the-badge&color=FF1493&label=PROFILE+VIEWS)](https://github.com/jennisha29)
+
 </div>
 
 ---
 
 ## 👋 Hello, I'm Jennisha
 
-I'm a *Data Engineer, **Data Analyst, and **Applied AI Enthusiast* who loves building systems that make data useful, trustworthy, and actionable.
+I'm a **Data Engineer**, **Data Analyst**, and **Applied AI Enthusiast** who loves building systems that make data useful, trustworthy, and actionable.
 I design efficient **ETL/ELT pipelines**, develop **BI solutions**, and use modern cloud technologies to transform complex datasets into insights that help teams make better decisions.
 
 ```yaml
@@ -235,6 +237,6 @@ mindmap
 
 ### ✨ Thank you for visiting! 😊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF1493,50:111827,100:0F172A" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF1493,100:0F172A" alt="Footer wave" />
 
 </div>
