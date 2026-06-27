@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:9333EA&text=Welcome%20to%20Jennisha%20Martin%27s%20Github&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Applied%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Welcome to Jennisha Martin's Github banner" />
 
 <!-- Avatar -->
-<img src="https://github.com/jennisha-martin.png" width="140" alt="Jennisha Martin avatar" style="border-radius:50%;" />
+<img src="https://github.com/jennisha29.png" width="140" alt="Jennisha Martin avatar" style="border-radius:50%;" />
 
 <br /><br />
 
@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennisha%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jennisha-martin)
 [![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennishamartin163@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jennisha-martin&style=for-the-badge&color=9333EA)](https://github.com/jennisha-martin)
+[![Profile Views](https://komarev.com/ghpvc/?username=jennisha29&style=for-the-badge&color=9333EA)](https://github.com/jennisha29)
 
 <br />
 <br />
@@ -215,12 +215,12 @@ mindmap
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jennisha-martin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jennisha's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha-martin&theme=tokyonight&hide_border=true" alt="Jennisha's GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jennisha29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jennisha's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jennisha29&theme=tokyonight&hide_border=true" alt="Jennisha's GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha-martin&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennisha29&layout=compact&theme=tokyonight&hide_border=true" alt="Jennisha's top languages" />
 
 </div>
 
